@@ -1,0 +1,27 @@
+.action-btn-warning{
+    background-color: #c69500;
+    border: 1px solid #c69500;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    margin: 0 0 10px 10px;
+    min-width: 40px;
+    padding: 9px 9px;
+    position: relative;
+    text-align: center;
+}
+
+.action-btn-danger{
+    background-color: #b21f2d;
+    border: 1px solid #b21f2d;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 12px;
+    height: 40px;
+    margin: 0 0 10px 10px;
+    min-width: 40px;
+    padding: 9px 9px;
+    position: relative;
+    text-align: center;
+}
